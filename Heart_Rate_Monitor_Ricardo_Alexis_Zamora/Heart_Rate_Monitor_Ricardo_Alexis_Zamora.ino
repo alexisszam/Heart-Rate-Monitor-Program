@@ -1,3 +1,12 @@
+/*
+  Author: Ricardo Alexis Zamora Acosta
+  Contact Email: zamoraa.alexiss@gmail.com
+  Created at: University of Groningen (RUG)
+  Date: June 2024
+  Description: This code is designed to display an interface for a Heart Rate Monitor.
+  Additional Info: Tested with CH340, using Arduino IDE version 2.3.2
+*/
+
 #include <Adafruit_GFX.h>       // Library needed for OLED display
 #include <Adafruit_SSD1306.h>   // Library needed for OLED display
 #include <Wire.h>               // Library needed for I2C communication
